@@ -16,7 +16,7 @@
 # Inherit from Infinix-X695C device
 $(call inherit-product, device/transsion/mt6785-common/device.mk)
 
-PRODUCT_DEVICE := X695C
+PRODUCT_DEVICE := Infinix-X695C
 PRODUCT_NAME := twrp_X695C
 PRODUCT_BRAND := Infinix
 PRODUCT_MODEL := Infinix X695C-GL
