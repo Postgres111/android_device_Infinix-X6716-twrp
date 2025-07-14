@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_Infinix-X695C.mk
+    $(LOCAL_DIR)/twrp_X695C.mk
 
 COMMON_LUNCH_CHOICES := \
-                twrp_Infinix-X695C-eng
+    twrp_X695C-eng
